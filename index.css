@@ -6,13 +6,7 @@
 }
 /*The body code now lets the background be completely stars, so we no longer need to cheese the footer background */
 body{
-    background: url('sStars.gif');
-    background-position: center;
-    margin-left: auto;
-    margin-right: auto;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+    background-color: #6c896f;
 }
 section{
     display: flex;
